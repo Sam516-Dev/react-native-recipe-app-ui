@@ -36,7 +36,7 @@ const WelcomeScreen = ({ navigation }) => {
 				}}
 			>
 				<Text style={{ fontSize: 18, color: "#fff", fontWeight: "700" }}>
-					Let's Go
+					Let's Get started
 				</Text>
 			</TouchableOpacity>
 		</View>

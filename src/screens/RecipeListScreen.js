@@ -12,7 +12,7 @@ const RecipeListScreen = () => {
 			<Header headerText={"Hi, John "} headerIcon={"bell-o"} />
 
 			{/* Search Filter */}
-			<SearchFilter icon="search" placeholder={"enter your fav recipe"} />
+			<SearchFilter icon="search" placeholder={"enter your favourite recipe"} />
 
 			{/* Categories filter */}
 
